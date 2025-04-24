@@ -1,4 +1,8 @@
-"scripts": {
-  "test": "echo \"Running placeholder test...\" && exit 0"
+{
+  "name": "my-git-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
 
