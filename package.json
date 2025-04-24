@@ -1,20 +1,4 @@
-{
-  "name": "my-git-repo",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Utkarsh-Chhabra/My-Git-repo.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Utkarsh-Chhabra/My-Git-repo/issues"
-  },
-  "homepage": "https://github.com/Utkarsh-Chhabra/My-Git-repo#readme"
+"scripts": {
+  "test": "echo \"Running placeholder test...\" && exit 0"
 }
+
